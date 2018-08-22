@@ -1,0 +1,28 @@
+{
+  "name": "ip-tools",
+  "version": "0.0.1",
+  "description": "Get ASN and DNS information about IP addresses",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kozakvoj/ip-tools.git"
+  },
+  "author": "Vojtech Kozak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kozakvoj/ip-tools/issues"
+  },
+  "homepage": "https://github.com/kozakvoj/ip-tools#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "hofp": "^0.7.0",
+    "ip-to-asn": "^1.0.0",
+    "iptoasn-client": "0.0.2",
+    "pn": "^1.1.0",
+    "ramda": "^0.25.0",
+    "request": "^2.88.0"
+  }
+}
