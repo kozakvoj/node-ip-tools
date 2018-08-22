@@ -20,8 +20,7 @@ ipTools
     .use(dns)
     .use(geo);
 
-ipTools.go("109.183.50.244", {}, (ip, data) => {
-    console.log(JSON.stringify(data));
-});
+ipTools.run("109.183.50.244")
+    .then(console.log);
 ```
 
