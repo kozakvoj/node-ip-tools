@@ -17,10 +17,12 @@
   },
   "homepage": "https://github.com/kozakvoj/node-ip-tools#readme",
   "dependencies": {
+    "axios": "latest",
     "cheerio": "^1.0.0-rc.2",
     "hofp": "^0.7.0",
     "ip-to-asn": "^1.0.0",
     "iptoasn-client": "0.0.2",
+    "mocha": "^5.2.0",
     "pn": "^1.1.0",
     "ramda": "^0.25.0",
     "request": "^2.88.0"
