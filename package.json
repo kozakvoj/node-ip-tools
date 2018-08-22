@@ -1,5 +1,5 @@
 {
-  "name": "ip-tools",
+  "name": "node-ip-tools",
   "version": "0.0.1",
   "description": "Get ASN and DNS information about IP addresses",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kozakvoj/ip-tools.git"
+    "url": "git+https://github.com/kozakvoj/node-ip-tools.git"
   },
   "author": "Vojtech Kozak",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kozakvoj/ip-tools/issues"
+    "url": "https://github.com/kozakvoj/node-ip-tools/issues"
   },
-  "homepage": "https://github.com/kozakvoj/ip-tools#readme",
+  "homepage": "https://github.com/kozakvoj/node-ip-tools#readme",
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
     "hofp": "^0.7.0",
