@@ -8,7 +8,7 @@ The currently supported services are:
 
 ## Usage
 ```javascript
-const IpTools = require("node-ip-tools");
+const IpTools = require("@kozakvoj/node-ip-tools");
 const ipTools = new IpTools.client();
 
 const geo = IpTools.modules.geo;
