@@ -1,6 +1,6 @@
 {
   "name": "@kozakvoj/node-ip-tools",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Get ASN and DNS information about IP addresses",
   "main": "index.js",
   "scripts": {
