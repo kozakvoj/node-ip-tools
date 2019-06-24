@@ -1,6 +1,6 @@
 {
   "name": "@kozakvoj/node-ip-tools",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Get ASN and DNS information about IP addresses",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/kozakvoj/node-ip-tools#readme",
   "dependencies": {
-    "axios": "latest",
+    "axios": "0.19.0",
     "cheerio": "^1.0.0-rc.2",
     "hofp": "^0.7.0",
     "ip-to-asn": "^1.0.0",
